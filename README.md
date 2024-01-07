@@ -14,6 +14,6 @@ To achieve dynamic adaptability, an unsupervised learning algorithm, specificall
 
 * To provide a user-friendly interface, an application was developed using the Streamlit library in Python. This application interprets user-entered data, including marks for each subject and corresponding Student IDs, identifying which students need improvement. It dynamically analyzes this information and promptly presents insights on subjects improvement, accompanied by specific remarks. This streamlined and personalized approach ensures a targeted and effective learning experience for users of the flashcard application.
 
-## Flashcard Application using Streamlit- Python
+## Flashcard Application using Streamlit- Python:
 
 ![image](https://github.com/sanyavirmani/Dynamic-Flashcards-for-Learning/assets/114525205/3d6dc105-eca5-4354-a6cd-116a2056b4e7)
