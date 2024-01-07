@@ -16,4 +16,4 @@ To achieve dynamic adaptability, an unsupervised learning algorithm, specificall
 
 ## Flashcard Application using Streamlit- Python
 
-![image](https://github.com/sanyavirmani/Dynamic-Flashcards-for-Learning/assets/114525205/4ed5d29f-2684-4e14-979c-21ed3a36dc3d)
+![image](https://github.com/sanyavirmani/Dynamic-Flashcards-for-Learning/assets/114525205/3d6dc105-eca5-4354-a6cd-116a2056b4e7)
